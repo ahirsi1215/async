@@ -13,8 +13,3 @@ let counter = 1
   }
   typewriter();
 
-/* for (const char of sentence) {
-  setTimeout(() => {
-    process.stdout.write(char);
-  }, delay)
-} */
